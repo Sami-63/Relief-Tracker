@@ -14,40 +14,19 @@
 3. Activate the enviroment. 
     - For windows, 
     ```
-    venv/bin/activate.bat
+    venv\Scripts\activate.bat
     ```
     - For ubuntu, 
     ```
     source venv/bin/activate
     ```
 
-4. Now install the packages. 
+4. Now run the project. 
     ```
-    pip install -r requirements.txt
-    ```
-
-5. Migrate database. 
-    ```
-    python manage.py migrate
+    python manage.py runserver 0.0.0.0:8000
     ```
 
-6. Create a superuser 
-    ```
-    python manage.py createsuperuser
-    Username: admin
-    Email address: 
-    Password: 1234
-    Password (again): 1234
-    Bypass password validation and create user anyway? [y/N]: y
-    Superuser created successfully.
-    ```
-
-7. Now run the project. 
-    ```
-    python manage.py runserver
-    ```
-
-8. To deactivate the virtual env,
+5. To deactivate the virtual env,
     ```
     deactivate
     ```
