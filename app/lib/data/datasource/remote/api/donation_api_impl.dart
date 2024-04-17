@@ -24,6 +24,9 @@ class DonationApiImpl implements DonationApi {
 
   DonationApiImpl() {
     dio = Dio();
+  }
+
+  void assignToken() {
     final dataSource = AccountLocalDataSourceImpl(
       sharedPref: getIt(),
     );
@@ -45,6 +48,8 @@ class DonationApiImpl implements DonationApi {
     required DonationRequest donationCreateRequest,
   }) {
     try {
+      assignToken();
+
       final result = dio.post(
         Config.baseUrl + _donationCreateUrl,
         data: donationCreateRequest.toJson(),
@@ -64,6 +69,8 @@ class DonationApiImpl implements DonationApi {
     required List<QueryParam> queryParams,
   }) async {
     try {
+      assignToken();
+
       if (myDonations) {
         final result = await dio.get(Config.baseUrl + _myDonations);
 
@@ -87,6 +94,7 @@ class DonationApiImpl implements DonationApi {
   @override
   Future<DonationResponse> getDonationReportById({required int id}) {
     try {
+      assignToken();
       final result = dio.get(
         Config.baseUrl + _donationById.replaceFirst('pk', id.toString()),
       );
@@ -115,6 +123,7 @@ class DonationApiImpl implements DonationApi {
     required String state,
   }) {
     try {
+      assignToken();
       final result = dio.post(
         Config.baseUrl +
             _donationUpdateState

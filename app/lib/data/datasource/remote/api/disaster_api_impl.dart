@@ -21,6 +21,9 @@ class DisasterApiImpl implements DisasterApi {
 
   DisasterApiImpl() {
     dio = Dio();
+  }
+
+  void assignToken() {
     final dataSource = AccountLocalDataSourceImpl(
       sharedPref: getIt(),
     );
@@ -48,6 +51,8 @@ class DisasterApiImpl implements DisasterApi {
     required List<String> images,
   }) {
     try {
+      assignToken();
+
       final result = dio.post(
         Config.baseUrl + disasterCreateUrl,
         data: {
@@ -81,6 +86,7 @@ class DisasterApiImpl implements DisasterApi {
     required List<QueryParam> queryParams,
   }) {
     try {
+      assignToken();
       final result = dio.get(
         Config.baseUrl + disasterUrl,
         queryParameters:
@@ -111,6 +117,7 @@ class DisasterApiImpl implements DisasterApi {
   @override
   Future<DisasterResponse> fetchDisaster({required int id}) {
     try {
+      assignToken();
       final result = dio.get(
         Config.baseUrl + disasterDetailUrl.replaceFirst('pk', id.toString()),
       );
@@ -127,7 +134,7 @@ class DisasterApiImpl implements DisasterApi {
   Future<List<String>> uploadImages({
     required List<String> imagePaths,
   }) async {
-    print('imagePaths: $imagePaths');
+    assignToken();
 
     try {
       final formData = FormData();
@@ -145,8 +152,6 @@ class DisasterApiImpl implements DisasterApi {
         '${Config.baseUrl}media-center/upload/',
         data: formData,
       );
-
-      print(result.data);
 
       List<String> imageUrls = [];
       for (var image in result.data) {
