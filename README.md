@@ -106,6 +106,8 @@ To configure your Flutter frontend to communicate with the backend, you'll need 
 
    Look for the "IPv4 Address" under your active network adapter. Note down this address.
 
+   ![Windows ipv4](images/screenshot-1.jpeg)
+
 #### For macOS / Linux:
 
 1. Open Terminal.
@@ -114,12 +116,14 @@ To configure your Flutter frontend to communicate with the backend, you'll need 
     ```bash
     ifconfig
     ```
-   or
+    or
     ```bash
     ip addr
     ```
 
    Look for the "inet" or "inet addr" field under your active network adapter. Note down this address.
+
+   ![Ubuntu ipv4](images/screenshot-2.jpg)
 
 ### Configuring Flutter App
 
@@ -127,13 +131,15 @@ Once you have the IPv4 address, you can configure your Flutter app to use it as 
 
 1. Open your Flutter project in your preferred code editor.
 
-2. Navigate to the file where you make HTTP requests to your backend (e.g., `api_service.dart`).
+2. Navigate to `config.dart` in `app\lib\data\datasource\remote\utils`.
 
-3. Replace the base URL with the retrieved IPv4 address and appropriate port number.
+3. Replace the `baseUrl` with the retrieved IPv4 address and appropriate port number.
 
    Example:
    ```dart
-   String baseURL = 'http://your-ipv4-address:8000'; // Replace 'your-ipv4-address' with your actual IPv4 address
+    class Config {
+      static const String baseUrl = 'http://your-ipv4-address:8000/api/'; // Replace 'your-ipv4-address' with your actual IPv4 address
+    }
    ```
 
 4. Save the file and rebuild your Flutter app.
