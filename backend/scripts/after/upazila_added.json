@@ -1,0 +1,1037 @@
+[
+  {
+    "name": "Adamdighi",
+    "latitude": 24.81918080027308,
+    "longitude": 89.0440428
+  },
+  {
+    "name": "Agailjhara",
+    "latitude": 22.97185030038509,
+    "longitude": 90.15879309999998
+  },
+  {
+    "name": "Aditmari",
+    "latitude": 25.92225340017207,
+    "longitude": 89.350972
+  },
+  {
+    "name": "Ajmiriganj",
+    "latitude": 24.557904400293733,
+    "longitude": 91.2361655
+  },
+  {
+    "name": "Akhaura",
+    "latitude": 23.868122100341036,
+    "longitude": 91.2088835
+  },
+  {
+    "name": "Akkelpur",
+    "latitude": 24.966702500260812,
+    "longitude": 89.01693579999998
+  },
+  {
+    "name": "Alamdanga",
+    "latitude": 23.765649600347118,
+    "longitude": 88.9447428
+  },
+  {
+    "name": "Anwara",
+    "latitude": 22.233175600405165,
+    "longitude": 91.8723543
+  },
+  {
+    "name": "Araihazar",
+    "latitude": 23.792671400345537,
+    "longitude": 90.65315269999999
+  },
+  {
+    "name": "Atpara",
+    "latitude": 24.814876300273436,
+    "longitude": 90.8622122
+  },
+  {
+    "name": "Atwari",
+    "latitude": 26.24321480013926,
+    "longitude": 88.415359
+  },
+  {
+    "name": "Austagram",
+    "latitude": 24.274337600314496,
+    "longitude": 91.10498099999998
+  },
+  {
+    "name": "Bagha",
+    "latitude": 24.191905800320196,
+    "longitude": 88.8360859
+  },
+  {
+    "name": "Bagherpara",
+    "latitude": 23.221623300374908,
+    "longitude": 89.3409129
+  },
+  {
+    "name": "Bajitpur",
+    "latitude": 24.21576230031856,
+    "longitude": 90.95181139999998
+  },
+  {
+    "name": "Balaganj",
+    "latitude": 24.657868300286,
+    "longitude": 91.8414179
+  },
+  {
+    "name": "Baliakandi",
+    "latitude": 23.63518810035447,
+    "longitude": 89.5484979
+  },
+  {
+    "name": "Banaripara",
+    "latitude": 22.783489200391646,
+    "longitude": 90.15940799999998
+  },
+  {
+    "name": "Bancharampur",
+    "latitude": 23.778276600346377,
+    "longitude": 90.80586229999999
+  },
+  {
+    "name": "Baniachong",
+    "latitude": 24.52591700029616,
+    "longitude": 91.36267379999998
+  },
+  {
+    "name": "Banshkhali",
+    "latitude": 22.00849160040824,
+    "longitude": 91.94782519999998
+  },
+  {
+    "name": "Barhatta",
+    "latitude": 24.89197900026708,
+    "longitude": 90.8918435
+  },
+  {
+    "name": "Barlekha",
+    "latitude": 24.704194900282346,
+    "longitude": 92.19292179999998
+  },
+  {
+    "name": "Barura",
+    "latitude": 23.376188500367792,
+    "longitude": 91.0543359
+  },
+  {
+    "name": "Basail",
+    "latitude": 24.2297459003176,
+    "longitude": 90.0517494
+  },
+  {
+    "name": "Bauphal",
+    "latitude": 22.4168127004016,
+    "longitude": 90.5589509
+  },
+  {
+    "name": "Beanibazar",
+    "latitude": 24.821547500272892,
+    "longitude": 92.1590067
+  },
+  {
+    "name": "Begumganj",
+    "latitude": 22.94214360038618,
+    "longitude": 91.09967249999998
+  },
+  {
+    "name": "Belabo",
+    "latitude": 24.10484610032604,
+    "longitude": 90.8520464
+  },
+  {
+    "name": "Bera",
+    "latitude": 24.07799470032781,
+    "longitude": 89.6103537
+  },
+  {
+    "name": "Betagi",
+    "latitude": 22.41079820040173,
+    "longitude": 90.1598377
+  },
+  {
+    "name": "Bhaluka",
+    "latitude": 24.404455000305184,
+    "longitude": 90.3863536
+  },
+  {
+    "name": "Bhandaria",
+    "latitude": 22.487683000399965,
+    "longitude": 90.06437759999999
+  },
+  {
+    "name": "Bheramara",
+    "latitude": 24.020227600331562,
+    "longitude": 88.99716039999998
+  },
+  {
+    "name": "Bhuapur",
+    "latitude": 24.461254600301004,
+    "longitude": 89.87281399999999
+  },
+  {
+    "name": "Bhurungamari",
+    "latitude": 26.110461700152992,
+    "longitude": 89.66384739999998
+  },
+  {
+    "name": "Birampur",
+    "latitude": 25.390553700223304,
+    "longitude": 88.99127800000001
+  },
+  {
+    "name": "Boalmari",
+    "latitude": 23.385456200367344,
+    "longitude": 89.681615
+  },
+  {
+    "name": "Brahmanpara",
+    "latitude": 23.614845500355578,
+    "longitude": 91.1071379
+  },
+  {
+    "name": "Burichang",
+    "latitude": 23.559842400358527,
+    "longitude": 91.1259324
+  },
+  {
+    "name": "Chakaria",
+    "latitude": 21.76627260040995,
+    "longitude": 92.076021
+  },
+  {
+    "name": "Chandina",
+    "latitude": 23.488375600362232,
+    "longitude": 91.00781229999998
+  },
+  {
+    "name": "Charghat",
+    "latitude": 24.28506010031374,
+    "longitude": 88.7469909
+  },
+  {
+    "name": "Chatkhil",
+    "latitude": 23.063094000381565,
+    "longitude": 90.9723615
+  },
+  {
+    "name": "Chatmohar",
+    "latitude": 24.231383400317483,
+    "longitude": 89.290206
+  },
+  {
+    "name": "Chilmari",
+    "latitude": 25.585060500205067,
+    "longitude": 89.6622435
+  },
+  {
+    "name": "Chitalmari",
+    "latitude": 22.788227000391483,
+    "longitude": 89.8785812
+  },
+  {
+    "name": "Daganbhuiyan",
+    "latitude": 22.937202200386366,
+    "longitude": 91.30269319999998
+  },
+  {
+    "name": "Dashmina",
+    "latitude": 22.283245700404287,
+    "longitude": 90.5622027
+  },
+  {
+    "name": "Daudkandi",
+    "latitude": 23.537347500359697,
+    "longitude": 90.71524579999999
+  },
+  {
+    "name": "Daulatpur",
+    "latitude": 22.869452300388765,
+    "longitude": 89.52691119999999
+  },
+  {
+    "name": "Daulatpur",
+    "latitude": 23.968682200334833,
+    "longitude": 89.83375400000001
+  },
+  {
+    "name": "Debidwar",
+    "latitude": 23.596529400356566,
+    "longitude": 90.9935327
+  },
+  {
+    "name": "Debiganj",
+    "latitude": 26.120193500151984,
+    "longitude": 88.75924499999999
+  },
+  {
+    "name": "Delduar",
+    "latitude": 24.16915800032174,
+    "longitude": 89.9683401
+  },
+  {
+    "name": "Dhamoirhat",
+    "latitude": 25.155987300244465,
+    "longitude": 88.832894
+  },
+  {
+    "name": "Dhanbari",
+    "latitude": 24.677408200284457,
+    "longitude": 89.95188199999998
+  },
+  {
+    "name": "Dhobaura",
+    "latitude": 25.097532600249586,
+    "longitude": 90.46065439999998
+  },
+  {
+    "name": "Dighinala",
+    "latitude": 23.242645700373984,
+    "longitude": 92.06672829999998
+  },
+  {
+    "name": "Dohar",
+    "latitude": 23.605919300356053,
+    "longitude": 90.13354989999999
+  },
+  {
+    "name": "Domar",
+    "latitude": 26.106193000153425,
+    "longitude": 88.82344579999999
+  },
+  {
+    "name": "Dowarabazar",
+    "latitude": 25.039904700254574,
+    "longitude": 91.57183049999999
+  },
+  {
+    "name": "Dumki",
+    "latitude": 22.46026700040062,
+    "longitude": 90.38768179999998
+  },
+  {
+    "name": "Dumuria",
+    "latitude": 22.816301600390574,
+    "longitude": 89.4117044
+  },
+  {
+    "name": "Fakirhat",
+    "latitude": 22.775349800391908,
+    "longitude": 89.7123646
+  },
+  {
+    "name": "Fatikchhari",
+    "latitude": 22.687364800394615,
+    "longitude": 91.7902571
+  },
+  {
+    "name": "Fenchuganj",
+    "latitude": 24.694246500283136,
+    "longitude": 91.93922289999999
+  },
+  {
+    "name": "Gabtali",
+    "latitude": 24.877022900268326,
+    "longitude": 89.4512705
+  },
+  {
+    "name": "Gangni",
+    "latitude": 23.817871200344047,
+    "longitude": 88.7497084
+  },
+  {
+    "name": "Ghatail",
+    "latitude": 24.47817690029975,
+    "longitude": 89.9735137
+  },
+  {
+    "name": "Ghoraghat",
+    "latitude": 25.272035300234116,
+    "longitude": 89.25380439999999
+  },
+  {
+    "name": "Ghoraghat",
+    "latitude": 25.26602980023466,
+    "longitude": 89.25995609999998
+  },
+  {
+    "name": "Gobindaganj",
+    "latitude": 25.133911700246404,
+    "longitude": 89.3857832
+  },
+  {
+    "name": "Godagari",
+    "latitude": 24.458172600301232,
+    "longitude": 88.3285448
+  },
+  {
+    "name": "Golapganj",
+    "latitude": 24.85688150026999,
+    "longitude": 92.01300039999998
+  },
+  {
+    "name": "Gopalpur",
+    "latitude": 24.56380010029329,
+    "longitude": 89.92826079999999
+  },
+  {
+    "name": "Gouripur",
+    "latitude": 24.760067900277875,
+    "longitude": 90.57038779999999
+  },
+  {
+    "name": "Gournadi",
+    "latitude": 22.975130300384958,
+    "longitude": 90.23097359999998
+  },
+  {
+    "name": "Gurudaspur",
+    "latitude": 24.36795290030783,
+    "longitude": 89.23251289999999
+  },
+  {
+    "name": "Haimchar",
+    "latitude": 23.096662400380207,
+    "longitude": 90.6607486
+  },
+  {
+    "name": "Hajiganj",
+    "latitude": 23.253728400373483,
+    "longitude": 90.85285839999999
+  },
+  {
+    "name": "Hakimpur",
+    "latitude": 25.285753100232878,
+    "longitude": 89.01413569999998
+  },
+  {
+    "name": "Haluaghat",
+    "latitude": 25.122256700247426,
+    "longitude": 90.33956179999998
+  },
+  {
+    "name": "Homna",
+    "latitude": 23.69386300035121,
+    "longitude": 90.7809834
+  },
+  {
+    "name": "Hossainpur",
+    "latitude": 24.41686570030428,
+    "longitude": 90.6553734
+  },
+  {
+    "name": "Ishurdi",
+    "latitude": 24.128584700324463,
+    "longitude": 89.0653214
+  },
+  {
+    "name": "Itna",
+    "latitude": 24.534596900295508,
+    "longitude": 91.1122564
+  },
+  {
+    "name": "Jagannathpur",
+    "latitude": 24.781908900276118,
+    "longitude": 91.55702269999999
+  },
+  {
+    "name": "Jaintiapur",
+    "latitude": 25.123648200247306,
+    "longitude": 92.14628779999998
+  },
+  {
+    "name": "Jaldhaka",
+    "latitude": 26.019875000162227,
+    "longitude": 89.01682459999999
+  },
+  {
+    "name": "Jamalganj",
+    "latitude": 24.99705120025824,
+    "longitude": 91.232135
+  },
+  {
+    "name": "Juraichari",
+    "latitude": 22.673908100394996,
+    "longitude": 92.38110919999998
+  },
+  {
+    "name": "Kalai",
+    "latitude": 25.061504400252705,
+    "longitude": 89.1659505
+  },
+  {
+    "name": "Kalapara",
+    "latitude": 21.986005500408478,
+    "longitude": 90.2232185
+  },
+  {
+    "name": "Kalia",
+    "latitude": 23.04486400038228,
+    "longitude": 89.6305234
+  },
+  {
+    "name": "Kalihati",
+    "latitude": 24.387334600306428,
+    "longitude": 89.99484509999999
+  },
+  {
+    "name": "Kalkini",
+    "latitude": 23.07813150038096,
+    "longitude": 90.2217374
+  },
+  {
+    "name": "Kalmakanda",
+    "latitude": 25.077158600251355,
+    "longitude": 90.8882575
+  },
+  {
+    "name": "Kashiani",
+    "latitude": 23.236490000374253,
+    "longitude": 89.72045229999999
+  },
+  {
+    "name": "Katiadi",
+    "latitude": 24.250296200316175,
+    "longitude": 90.7962218
+  },
+  {
+    "name": "Kaunia",
+    "latitude": 25.773309400186847,
+    "longitude": 89.41903809999998
+  },
+  {
+    "name": "Kendua",
+    "latitude": 24.661723300285693,
+    "longitude": 90.84541679999998
+  },
+  {
+    "name": "Khaliajuri",
+    "latitude": 24.69125620028337,
+    "longitude": 91.14117529999999
+  },
+  {
+    "name": "Kulaura",
+    "latitude": 24.52263360029641,
+    "longitude": 92.03407319999998
+  },
+  {
+    "name": "Kuliarchar",
+    "latitude": 24.151506600322936,
+    "longitude": 90.9322312
+  },
+  {
+    "name": "Kumarkhali",
+    "latitude": 23.861588700341436,
+    "longitude": 89.24131679999999
+  },
+  {
+    "name": "Lakhai",
+    "latitude": 24.28479750031376,
+    "longitude": 91.2506877
+  },
+  {
+    "name": "Laksam",
+    "latitude": 23.23626470037426,
+    "longitude": 91.11982709999998
+  },
+  {
+    "name": "Lalmohan",
+    "latitude": 22.341058500403186,
+    "longitude": 90.73343329999999
+  },
+  {
+    "name": "Lalpur",
+    "latitude": 24.18246220032084,
+    "longitude": 88.95650059999998
+  },
+  {
+    "name": "Madan",
+    "latitude": 24.715863400281425,
+    "longitude": 90.9474829
+  },
+  {
+    "name": "Madhabpur",
+    "latitude": 24.095733900326643,
+    "longitude": 91.288801
+  },
+  {
+    "name": "Madhukhali",
+    "latitude": 23.543441100359384,
+    "longitude": 89.62550609999998
+  },
+  {
+    "name": "Madhupur",
+    "latitude": 24.607162900289953,
+    "longitude": 90.0289157
+  },
+  {
+    "name": "Manikchari",
+    "latitude": 22.858658800389144,
+    "longitude": 91.85728319999998
+  },
+  {
+    "name": "Manikchari",
+    "latitude": 22.84954800038945,
+    "longitude": 91.8413206
+  },
+  {
+    "name": "Mathbaria",
+    "latitude": 22.287591700404207,
+    "longitude": 89.9592718
+  },
+  {
+    "name": "Matiranga",
+    "latitude": 23.0444506003823,
+    "longitude": 91.86849159999998
+  },
+  {
+    "name": "Meghna",
+    "latitude": 23.63549040035445,
+    "longitude": 90.7035798
+  },
+  {
+    "name": "Mehendiganj",
+    "latitude": 22.82326300039033,
+    "longitude": 90.52759689999999
+  },
+  {
+    "name": "Mirzaganj",
+    "latitude": 22.355287400402904,
+    "longitude": 90.2209532
+  },
+  {
+    "name": "Mithamoin",
+    "latitude": 24.41494390030442,
+    "longitude": 91.06028789999999
+  },
+  {
+    "name": "Mohalchari",
+    "latitude": 22.93600880038641,
+    "longitude": 92.0294073
+  },
+  {
+    "name": "Mongla",
+    "latitude": 22.467922800400427,
+    "longitude": 89.60400740000001
+  },
+  {
+    "name": "Muksudpur",
+    "latitude": 23.314690500370702,
+    "longitude": 89.86967689999999
+  },
+  {
+    "name": "Muktagacha",
+    "latitude": 24.76515530027746,
+    "longitude": 90.2583669
+  },
+  {
+    "name": "Muladi",
+    "latitude": 22.91328290038723,
+    "longitude": 90.4108006
+  },
+  {
+    "name": "Nabiganj",
+    "latitude": 24.567889400292966,
+    "longitude": 91.51754179999999
+  },
+  {
+    "name": "Nabinagar",
+    "latitude": 23.88469590034003,
+    "longitude": 90.96999439999999
+  },
+  {
+    "name": "Nagarpur",
+    "latitude": 24.053255200329424,
+    "longitude": 89.8739848
+  },
+  {
+    "name": "Nageshwari",
+    "latitude": 25.96810240016746,
+    "longitude": 89.6895759
+  },
+  {
+    "name": "Nalchity",
+    "latitude": 22.634738200396132,
+    "longitude": 90.2703307
+  },
+  {
+    "name": "Naldanga",
+    "latitude": 25.484738500214547,
+    "longitude": 89.47104419999998
+  },
+  {
+    "name": "Nalitabari",
+    "latitude": 25.08966390025027,
+    "longitude": 90.19430099999998
+  },
+  {
+    "name": "Nandail",
+    "latitude": 24.570329300292787,
+    "longitude": 90.6866685
+  },
+  {
+    "name": "Nangalkot",
+    "latitude": 23.166774930665145,
+    "longitude": 91.19774844329396
+  },
+  {
+    "name": "Nangalkot",
+    "latitude": 23.169593900377173,
+    "longitude": 91.19818069999998
+  },
+  {
+    "name": "Nasirnagar",
+    "latitude": 24.19284650032013,
+    "longitude": 91.19464329999998
+  },
+  {
+    "name": "Nazirpur",
+    "latitude": 22.729367000393346,
+    "longitude": 89.96087949999999
+  },
+  {
+    "name": "Niamatpur",
+    "latitude": 24.82601480027252,
+    "longitude": 88.57850149999999
+  },
+  {
+    "name": "Nikli",
+    "latitude": 24.330348200310535,
+    "longitude": 90.9374993
+  },
+  {
+    "name": "Pakundia",
+    "latitude": 24.32875380031065,
+    "longitude": 90.6805614
+  },
+  {
+    "name": "Palash",
+    "latitude": 23.977690300334267,
+    "longitude": 90.6526841
+  },
+  {
+    "name": "Panchari",
+    "latitude": 23.295105200371598,
+    "longitude": 91.89689069999999
+  },
+  {
+    "name": "Panchbibi",
+    "latitude": 25.18727690024169,
+    "longitude": 89.01966639999999
+  },
+  {
+    "name": "Parbatipur",
+    "latitude": 25.657505300198117,
+    "longitude": 88.9163662
+  },
+  {
+    "name": "Parshuram",
+    "latitude": 23.215108000375203,
+    "longitude": 91.4437172
+  },
+  {
+    "name": "Patgram",
+    "latitude": 26.34578610012853,
+    "longitude": 89.0208507
+  },
+  {
+    "name": "Phulpur",
+    "latitude": 24.952454900262012,
+    "longitude": 90.3588311
+  },
+  {
+    "name": "Pirganj",
+    "latitude": 25.416289000220925,
+    "longitude": 89.3164095
+  },
+  {
+    "name": "Purbadhala",
+    "latitude": 24.941217000262967,
+    "longitude": 90.61155629999999
+  },
+  {
+    "name": "Puthia",
+    "latitude": 24.369318700307748,
+    "longitude": 88.8421421
+  },
+  {
+    "name": "Rajarhat",
+    "latitude": 25.79674380018454,
+    "longitude": 89.54465889999999
+  },
+  {
+    "name": "Rajnagar",
+    "latitude": 24.5228566002964,
+    "longitude": 91.87222879999999
+  },
+  {
+    "name": "Rajoir",
+    "latitude": 23.22744750037466,
+    "longitude": 90.0212501
+  },
+  {
+    "name": "Ramgarh",
+    "latitude": 22.999843700384027,
+    "longitude": 91.7345286
+  },
+  {
+    "name": "Raninagar",
+    "latitude": 24.735899500279814,
+    "longitude": 88.9660795
+  },
+  {
+    "name": "Ranisankail",
+    "latitude": 25.90152060017414,
+    "longitude": 88.2543889
+  },
+  {
+    "name": "Rowmari",
+    "latitude": 25.57682100020584,
+    "longitude": 89.8348269
+  },
+  {
+    "name": "Rupganj",
+    "latitude": 23.792795100345533,
+    "longitude": 90.5298399
+  },
+  {
+    "name": "Sarishabari",
+    "latitude": 24.749946700278688,
+    "longitude": 89.83316659999998
+  },
+  {
+    "name": "Satkania",
+    "latitude": 22.07424700040749,
+    "longitude": 92.05762359999999
+  },
+  {
+    "name": "Saturia",
+    "latitude": 23.97143430033466,
+    "longitude": 90.0371913
+  },
+  {
+    "name": "Shailkupa",
+    "latitude": 23.68832930035152,
+    "longitude": 89.25406809999998
+  },
+  {
+    "name": "Sherpur",
+    "latitude": 25.022768600256043,
+    "longitude": 90.0060793
+  },
+  {
+    "name": "Shibchar",
+    "latitude": 23.347280000369175,
+    "longitude": 90.1697226
+  },
+  {
+    "name": "Shibpur",
+    "latitude": 25.009916300257135,
+    "longitude": 88.6618653
+  },
+  {
+    "name": "Singra",
+    "latitude": 24.50469530029776,
+    "longitude": 89.1452444
+  },
+  {
+    "name": "Sirajdikhan",
+    "latitude": 23.570113400357986,
+    "longitude": 90.383353
+  },
+  {
+    "name": "Sonargaon",
+    "latitude": 23.64215990035409,
+    "longitude": 90.6023361
+  },
+  {
+    "name": "Sonatala",
+    "latitude": 25.04395080025422,
+    "longitude": 89.49766490000002
+  },
+  {
+    "name": "Sreemangal",
+    "latitude": 24.310578100311943,
+    "longitude": 91.725133
+  },
+  {
+    "name": "Sreenagar",
+    "latitude": 23.543692300359364,
+    "longitude": 90.2920935
+  },
+  {
+    "name": "Sujanagar",
+    "latitude": 23.94221940033649,
+    "longitude": 89.4071557
+  },
+  {
+    "name": "Sundarganj",
+    "latitude": 25.566966300206786,
+    "longitude": 89.52276619999999
+  },
+  {
+    "name": "Tahirpur",
+    "latitude": 25.100644600249318,
+    "longitude": 91.1843306
+  },
+  {
+    "name": "Tala",
+    "latitude": 22.752082400392634,
+    "longitude": 89.256944
+  },
+  {
+    "name": "Tanore",
+    "latitude": 24.589147500291336,
+    "longitude": 88.57612799999998
+  },
+  {
+    "name": "Tarail",
+    "latitude": 24.54923000029439,
+    "longitude": 90.89129139999999
+  },
+  {
+    "name": "Tarakanda",
+    "latitude": 24.86288410026949,
+    "longitude": 90.4263942
+  },
+  {
+    "name": "Tarash",
+    "latitude": 24.43315570030309,
+    "longitude": 89.3753368
+  },
+  {
+    "name": "Teknaf",
+    "latitude": 20.86845660040172,
+    "longitude": 92.298748
+  },
+  {
+    "name": "Terokhada",
+    "latitude": 22.939248000386286,
+    "longitude": 89.67364779999998
+  },
+  {
+    "name": "Tetulia",
+    "latitude": 26.492075700113045,
+    "longitude": 88.3433108
+  },
+  {
+    "name": "Tongibari",
+    "latitude": 23.51028660036111,
+    "longitude": 90.4659685
+  },
+  {
+    "name": "Trishal",
+    "latitude": 24.58011460029203,
+    "longitude": 90.3971402
+  },
+  {
+    "name": "Tungipara",
+    "latitude": 22.905373600387506,
+    "longitude": 89.8990776
+  },
+  {
+    "name": "Ulipur",
+    "latitude": 25.655876800198275,
+    "longitude": 89.61910270000001
+  },
+  {
+    "name": "Zakiganj",
+    "latitude": 24.876509200268366,
+    "longitude": 92.3695829
+  },
+  {
+    "name": "Zianagar",
+    "latitude": 22.483961700400048,
+    "longitude": 89.9643591
+  },
+  {
+    "name": "\u0995\u09df\u09b0\u09be",
+    "latitude": 22.348571100403035,
+    "longitude": 89.2892679
+  },
+  {
+    "name": "\u0995\u09be\u09aa\u09be\u09b8\u09bf\u09df\u09be",
+    "latitude": 24.11437320032541,
+    "longitude": 90.5624625
+  },
+  {
+    "name": "\u0995\u09c1\u09a4\u09c1\u09ac\u09a6\u09bf\u09df\u09be",
+    "latitude": 21.814191600409746,
+    "longitude": 91.85553379999999
+  },
+  {
+    "name": "\u099d\u09bf\u0995\u09b0\u0997\u09be\u099b\u09be",
+    "latitude": 23.102916400379957,
+    "longitude": 89.10071529999999
+  },
+  {
+    "name": "\u09a5\u09be\u09a8\u099a\u09bf",
+    "latitude": 21.822613200409698,
+    "longitude": 92.4309578
+  },
+  {
+    "name": "\u09a8\u0997\u09b0\u0995\u09be\u09a8\u09cd\u09a6\u09be",
+    "latitude": 23.417024500365798,
+    "longitude": 89.89020540000001
+  },
+  {
+    "name": "\u09aa\u099f\u09bf\u09df\u09be",
+    "latitude": 22.299055700403994,
+    "longitude": 91.9776525
+  },
+  {
+    "name": "\u09aa\u09be\u0982\u09b6\u09be",
+    "latitude": 23.78742780034584,
+    "longitude": 89.4166377
+  },
+  {
+    "name": "\u09ac\u09cb\u099a\u09be\u0997\u099e\u09cd\u099c",
+    "latitude": 25.793917700184817,
+    "longitude": 88.4736076
+  },
+  {
+    "name": "\u09ac\u09cb\u09a6\u09be",
+    "latitude": 26.200718800143683,
+    "longitude": 88.55591039999999
+  },
+  {
+    "name": "\u09ae\u09b9\u09c7\u09b6\u09aa\u09c1\u09b0",
+    "latitude": 23.35647550036873,
+    "longitude": 88.91800109999998
+  },
+  {
+    "name": "\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0",
+    "latitude": 23.93630380033686,
+    "longitude": 88.99776399999999
+  },
+  {
+    "name": "\u09b0\u09be\u09df\u09aa\u09c1\u09b0",
+    "latitude": 23.038394000382535,
+    "longitude": 90.7680682
+  },
+  {
+    "name": "\u09b2\u09be\u09ae\u09be",
+    "latitude": 21.764184400409956,
+    "longitude": 92.20618259999999
+  },
+  {
+    "name": "\u09b8\u09a8\u09cd\u09a6\u09cd\u09ac\u09c0\u09aa",
+    "latitude": 22.479667800400154,
+    "longitude": 91.49989939999999
+  },
+  {
+    "name": "\u09b8\u09be\u09a4\u0995\u09be\u09a8\u09bf\u09df\u09be",
+    "latitude": 22.108772500407046,
+    "longitude": 92.0783749
+  },
+  {
+    "name": "\u09b9\u09be\u099f\u09b9\u09be\u099c\u09be\u09b0\u09c0",
+    "latitude": 22.505109500399538,
+    "longitude": 91.80886009999999
+  }
+]

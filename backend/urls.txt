@@ -1,0 +1,35 @@
+/api-auth/login/	django.contrib.auth.views.LoginView	rest_framework:login
+/api-auth/logout/	django.contrib.auth.views.LogoutView	rest_framework:logout
+
+/api/accounts/private/users/	accounts.api.private.views.UsersAPIView	accounts:private:users
+/api/accounts/public/v1/login/	accounts.api.public.v1.views.LoginView	accounts:public:v1:login
+/api/accounts/public/v1/signup/	accounts.api.public.v1.views.SignupView	accounts:public:v1:signup
+/api/accounts/public/v1/user-info/	accounts.api.public.v1.views.UserInfoView	accounts:public:v1:user-info
+/api/accounts/public/v1/users/	accounts.api.public.v1.views.UsersAPIView	accounts:public:v1:users
+
+/api/disasters/private/v1/disasters/
+/api/disasters/private/v1/disasters/<int:pk>/add-image
+/api/disasters/private/v1/disasters/<int:pk>/details
+/api/disasters/public/v1/disasters/
+/api/disasters/public/v1/disasters/<int:pk>/details
+/api/donations/public/v1/donation/create/	
+
+/api/donations/public/v1/donations/	donation.api.public.v1.views.DonationsAPIView	donation:public:v1:donation-list
+/api/donations/public/v1/donations/<int:pk>/add-media	donation.api.public.v1.views.DonationAddMediaAPIView	donation:public:v1:donation-add-media
+/api/donations/public/v1/donations/<int:pk>/details	donation.api.public.v1.views.DonationDetailAPIView	donation:public:v1:donation-detail
+/api/donations/public/v1/donations/<int:pk>/remove-media	donation.api.public.v1.views.DonationRemoveMediaAPIView	donation:public:v1:donation-remove-media
+/api/donations/public/v1/donations/my-donations/	donation.api.public.v1.views.MyDonationsAPIView	donation:public:v1:donation-list
+
+/api/locations/public/v1/districts/
+/api/locations/public/v1/districts/<int:pk>/details/
+
+/api/locations/public/v1/divisions/
+/api/locations/public/v1/divisions/<int:pk>/details/
+
+/api/locations/public/v1/unions/
+/api/locations/public/v1/unions/<int:pk>/details/
+
+/api/locations/public/v1/upazilas/
+/api/locations/public/v1/upazilas/<int:pk>/details/
+
+/media/<path>	django.views.static.serve
